@@ -1,5 +1,5 @@
 # swpt-k8s-operators
-// TODO(user): Add simple overview of use/purpose
+Kubernetes operators for various Swaptacular services
 
 ## Description
 // TODO(user): An in-depth paragraph about your project and overview of use
